@@ -41,7 +41,7 @@ A web-based platform for students to register campus complaints, and for adminis
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/VamshiRama28/campus_complaint_portal.git
+git clone https://github.com/MDineshkarthik/campus_complaint_portal.git
 cd campus_complaint_portal
 ```
 
